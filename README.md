@@ -27,7 +27,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SyedHuzaifa417&show_icons=true&hide_border=false&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Syed Huzaifa's GitHub Stats" />
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyedHuzaifa417&theme=radical&hide_border=false&background=0d1117&stroke=8000ff&ring=004cff&fire=ff8800&currStreakLabel=004cff)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHuzaifa417&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact&title_color=004cff&bg_color=0,000000,130F40)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyedHuzaifa417&theme=radical&hide_border=false&bg_color=0,000000,130F40&stroke=8000ff&ring=004cff&fire=ff8800&currStreakLabel=004cff)
 
